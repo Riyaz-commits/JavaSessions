@@ -1,0 +1,2 @@
+# JavaSessions
+Dummy Git Project
